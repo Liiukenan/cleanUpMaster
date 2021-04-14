@@ -36,7 +36,7 @@ function Header(props) {
           width="48"
           height="48"
         />
-        <span className="ml-10 fs-30 bold">北京悦玺清风文化传媒有限公司</span>
+        <span className="ml-10 fs-30 bold fc-white">北京科莱悦动科技有限公司</span>
       </div>
       <div className="flex-items-center nav">
         {linkArr.map((item, index) => {
@@ -47,7 +47,7 @@ function Header(props) {
           console.log(props.location.pathname, item.path)
           return (
             <li
-              className="flex-items-center"
+              className="flex-items-center fc-white"
               onClick={(e) => changeCurrentIndex(index, e)}
               key={index}
             >
