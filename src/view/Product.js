@@ -19,7 +19,10 @@ function Product() {
 
                </div>
                <div className="flex-justify-center box">
-                    <div className="flex-column content  flex-justify-center">
+               <div>
+                        <img src={require("../assets/images/phone_2.png")} alt="" width="324" height="514"/>
+                    </div>
+                    <div className="flex-column content-right  flex-justify-center">
                         <img src={require("../assets/images/logo2.png")} alt="" width="118" height="118"/>
                         <div className="fs-40 mt-24">
                         天天快清理
@@ -28,9 +31,7 @@ function Product() {
                         一键清理手机中的垃圾文件，一键加速，清理手机内存，操作简单。并能扫描和清理常用的聊天软件和短视频软件
                         </div>
                     </div>
-                    <div>
-                        <img src={require("../assets/images/phone_2.png")} alt="" width="324" height="514"/>
-                    </div>
+                    
 
                </div>
             </div>
