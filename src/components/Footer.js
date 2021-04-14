@@ -3,8 +3,8 @@ import '../assets/css/Footer.styl'
 function Footer() {
         return (
             <div className="footer  flex-column flex-items-center flex-justify-center">
-               <div className="fs-16">© 北京科莱悦动科技有限公司 版权所有</div>
-               <div className="fs-16 mt-16">京ICP备2021011456号-1</div>
+               <div className="fs-16">© 北京铂讯悦动科技有限公司 版权所有</div>
+               <div className="fs-16 mt-16">京ICP备2021011324号-1</div>
             </div>
         );
     }
