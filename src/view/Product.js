@@ -11,9 +11,9 @@ function Product() {
             width="118"
             height="118"
           />
-          <div className="fs-40 mt-24">流星清理卫士</div>
+          <div className="fs-40 mt-24">雷神清理管家</div>
           <div className="fs-20 mt-24 bold-200">
-            便捷的手机清理软件，有效地解决手机使用过程中卡顿、发热、内存不足的问题
+          一款专业的手机清理优化工具，是清除内存垃圾的好助手，你身边最贴心的内存清理大师！
           </div>
         </div>
         <div>
@@ -41,9 +41,9 @@ function Product() {
             width="118"
             height="118"
           />
-          <div className="fs-40 mt-24">星秀酷炫来电秀</div>
+          <div className="fs-40 mt-24">天眼大师手机清理</div>
           <div className="fs-20 mt-24 bold-200 ">
-          让你的来电秀不限于单调的系统默认，热门潮流主题，轻松设置个性有趣的来电视频
+          一键清理手机中的垃圾文件，释放超乎你想像的储存空间；内存，解决手机卡慢问题。是您手机垃圾清理必备神器！
           </div>
         </div>
       </div>
@@ -55,9 +55,9 @@ function Product() {
             width="118"
             height="118"
           />
-          <div className="fs-40 mt-24">简变P图</div>
+          <div className="fs-40 mt-24">樱桃超炫来电秀</div>
           <div className="fs-20 mt-24 bold-200">
-          一键换背景，艺术滤镜，瞬间P掉路人！ 海量模板，让你一键生成证件照、节日贺卡、头像、表情包、海报、Vlog封面
+          全网火热来电视频主题动画显示，爱上来电的感觉 个性、潮流、酷炫的来电秀视频主题动画显示
           </div>
         </div>
         <div>

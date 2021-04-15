@@ -36,7 +36,7 @@ function Header(props) {
           width="48"
           height="48"
         />
-        <span className="ml-10 fs-30 bold fc-white">北京铂讯悦动科技有限公司</span>
+        <span className="ml-10 fs-30 bold fc-hui8">北京铂展悦动科技有限公司</span>
       </div>
       <div className="flex-items-center nav">
         {linkArr.map((item, index) => {

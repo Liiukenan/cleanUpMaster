@@ -7,15 +7,20 @@ function Home() {
 
                </div>
                <div className="icon-box">
+               <div className="about-title fs-36 mt-36 bold">
+                        <div className="tit">
+                            我们的产品
+                        </div>
+                    </div>
                 <ul className="flex-justify-center">
                     <li>
                         <div className="flex-column flex-items-center">
                             <img src={require("../assets/images/logo1.png")} alt="" width="118" height="118"/>
                             <div className="fs-24 mt-24">
-                            流星清理卫士
+                            雷神清理管家
                             </div>
-                            <div className="fs-16 fc-w6  mt-16 bold-200">
-                            清理杀毒  又快又准
+                            <div className="fs-16 fc-w6  mt-16 bold-200 fc-hui6">
+                            您身边的清理优化管家
                             </div>
                         </div>
                     </li>
@@ -23,10 +28,10 @@ function Home() {
                         <div className="flex-column flex-items-center">
                             <img src={require("../assets/images/logo2.png")} alt="" width="118" height="118"/>
                             <div className="fs-24 mt-24">
-                            星秀酷炫来电秀
+                            天眼大师手机清理
                             </div>
-                            <div className="fs-16 fc-w6  mt-16 bold-200">
-                            打造你的专属来电秀
+                            <div className="fs-16 fc-w6  mt-16 bold-200 fc-hui6">
+                            手机清理快而准
                             </div>
                         </div>
                     </li>
@@ -34,10 +39,10 @@ function Home() {
                         <div className="flex-column flex-items-center">
                             <img src={require("../assets/images/logo3.png")} alt="" width="118" height="118"/>
                             <div className="fs-24 mt-24">
-                            简变P图
+                            樱桃超炫来电秀
                             </div>
-                            <div className="fs-16 fc-w6  mt-16 bold-200">
-                            一步带你玩转P图
+                            <div className="fs-16 fc-w6  mt-16 bold-200 fc-hui6">
+                            樱桃超炫来电秀
                             </div>
                         </div>
                     </li>
