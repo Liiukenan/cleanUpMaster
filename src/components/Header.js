@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState } from 'react'
 import '../assets/css/Header.styl'
 import { Link, withRouter } from 'react-router-dom'
@@ -34,9 +35,8 @@ function Header(props) {
           src={require('../assets/images/logo-1.png')}
           alt=""
           width="48"
-          height="48"
         />
-        <span className="ml-10 fs-30 bold fc-hui8">北京铂展悦动科技有限公司</span>
+        <span className="ml-10 fs-30 bold fc-hui8">北京微蜜友网络科技有限公司</span>
       </div>
       <div className="flex-items-center nav">
         {linkArr.map((item, index) => {

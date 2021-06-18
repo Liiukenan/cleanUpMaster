@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from 'react'
 import '../assets/css/Home.styl'
 function Home() {
@@ -17,10 +18,10 @@ function Home() {
                         <div className="flex-column flex-items-center">
                             <img src={require("../assets/images/logo1.png")} alt="" width="118" height="118"/>
                             <div className="fs-24 mt-24">
-                            雷神清理管家
+                            随心连WiFi
                             </div>
                             <div className="fs-16 fc-w6  mt-16 bold-200 fc-hui6">
-                            您身边的清理优化管家
+                            让连接随你心意
                             </div>
                         </div>
                     </li>
@@ -28,7 +29,7 @@ function Home() {
                         <div className="flex-column flex-items-center">
                             <img src={require("../assets/images/logo2.png")} alt="" width="118" height="118"/>
                             <div className="fs-24 mt-24">
-                            天眼大师手机清理
+                            手机微清理大师SD
                             </div>
                             <div className="fs-16 fc-w6  mt-16 bold-200 fc-hui6">
                             手机清理快而准
@@ -39,10 +40,10 @@ function Home() {
                         <div className="flex-column flex-items-center">
                             <img src={require("../assets/images/logo3.png")} alt="" width="118" height="118"/>
                             <div className="fs-24 mt-24">
-                            樱桃超炫来电秀
+                            SD卡清理专家
                             </div>
                             <div className="fs-16 fc-w6  mt-16 bold-200 fc-hui6">
-                            樱桃超炫来电秀
+                            专业清理加速  消除一切不快
                             </div>
                         </div>
                     </li>
